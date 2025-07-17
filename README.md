@@ -1,6 +1,6 @@
 # Cafe-Sales-Kaggle-
 
-What I did:
+What I do:
 - Pick a messy dataset from Kaggle’s “dirty data” datasets.
 - Clean it using Pandas (handling NaN, duplicates, formats):
   + Handle Missing Values:
