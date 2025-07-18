@@ -1,4 +1,4 @@
-# Cafe-Sales-Kaggle-
+# Cafe Sales Kaggle
 
 What I do:
 - Pick a messy dataset from Kaggle’s “dirty data” datasets.
